@@ -26,6 +26,7 @@ body {
     background-color: #fff;
     font-size: 15px;
     border-radius: 5%;
+    box-shadow: 1px 1px 10px #333;
 }
 
 .img-code{
@@ -59,6 +60,7 @@ body {
 .attribution{
     display: flex;
     justify-content: center;
+    bottom: 0;
 }
 
 /******* Media queries *******/
